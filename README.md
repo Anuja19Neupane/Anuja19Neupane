@@ -1,4 +1,4 @@
-# Hi, I'm Anuja Neupane 👋
+# Hi, I'm Anuja Neupane 
 
 I'm a passionate learner and a curious explorer in the world of technology. Here's a little about me:
 
