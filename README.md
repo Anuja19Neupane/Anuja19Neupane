@@ -5,7 +5,7 @@ I'm a passionate learner and a curious explorer in the world of technology. Here
 ## About Me
 
 -  I'm interested in a wide range of tech-related topics, always eager to learn something new.
--  I'm currently studying Electronics, Communication, and Information Engineering, with a focus on mastering the art of programming in C.
+-  I'm currently studying Electronics, Communication, and Information Engineering.
 -  I'm open to collaboration on exciting projects that challenge and expand my skills.
 
 ## Get in Touch
