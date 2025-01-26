@@ -10,9 +10,11 @@ I'm a passionate learner and a curious explorer in the world of technology. Here
 
 ## Get in Touch
 
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/anuja-neupane-600a8927b/)
-- 📧 Email: anujaneupane20@gmail.com
+- 📫 Reach me on:
+- Linkedin: [(https://www.linkedin.com/in/anuja-neupane-600a8927b/)]
+- Email: anujaneupane20@gmail.com
 - Facebook: [![Facebook](https://img.shields.io/badge/Facebook-1877f2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/anuja.neupane.7792)
+- Twitter: [https://x.com/AnujaNeupane29]
 
 
 Let's connect, learn, and build something amazing together!
